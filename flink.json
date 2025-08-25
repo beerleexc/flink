@@ -1,0 +1,88 @@
+[
+    {
+        "class_name": "推荐博客",
+        "class_desc": "美化装饰主要参考了以下博客。",
+        "flink_style": "flexcard",
+        "link_list": [
+            {
+                "name": "安知鱼`Blog",
+                "link": "https://anzhiy.cn/",
+                "avatar": "https://avatars.githubusercontent.com/u/73864136?v=4",
+                "descr": "生活明朗，万物可爱"
+            },
+            {
+                "name": "Akilar",
+                "link": "https://akilar.top",
+                "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg",
+                "descr": "欢迎光临糖果屋"
+            },
+            {
+                "name": "Leonus",
+                "link": "https://blog.leonus.cn/",
+                "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5",
+                "descr": "进一寸有进一寸的欢喜。"
+            },
+            {
+                "name": "张洪Heo",
+                "link": "https://blog.zhheo.com/",
+                "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+                "descr": "分享设计与科技生活"
+            },
+            {
+                "name": "ichika",
+                "link": "https://ichika.cc",
+                "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg",
+                "descr": "Hello,gamer!"
+            },
+            {
+                "name": "Fomalhaut🥝",
+                "link": "https://www.fomal.cc/",
+                "avatar": "https://www.fomal.cc/assets/avatar.webp",
+                "descr": "Future is now 🍭🍭🍭"
+            },
+            {
+                "name": "Ariasakaの小窝",
+                "link": "https://yisous.xyz",
+                "avatar": "https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg",
+                "descr": "人有悲欢离合 月有阴晴圆缺"
+            },
+            {
+                "name": "Eurkon",
+                "link": "https://blog.eurkon.com",
+                "avatar": "https://blog.eurkon.com/images/user/avatar.jpg",
+                "descr": "及时当勉励，岁月不待人。"
+            },
+            {
+                "name": "轻笑Chuckle",
+                "link": "https://www.qcqx.cn",
+                "avatar": "https://www.qcqx.cn/img/head.webp",
+                "descr": "漫天倾尘,风中轻笑",
+                "siteshot": "https://www.qcqx.cn/img/chuckle.webp"
+            }
+        ]
+    },
+    {
+        "class_name": "友人",
+        "link_list": [
+            {
+                "name": "LiuShen的博客",
+                "link": "https://www.qyliu.top/",
+                "avatar": "https://pic.imgdb.cn/item/65d5a5739f345e8d03290761.png",
+                "descr": "柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜",
+                "siteshot": "https://pic.imgdb.cn/item/65d8baf89f345e8d0371f95d.jpg"
+            },
+            {
+                "name": "Tianli",
+                "descr": "自知之明是最可贵的知识！",
+                "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640",
+                "link": "https://tianli-blog.club/"
+            },
+            {
+                "name": "山岳库博",
+                "link": "https://kmar.top/",
+                "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png",
+                "descr": "开发学习启发性二刺螈"
+            }
+        ]
+    }
+]
