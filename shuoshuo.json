@@ -4,11 +4,7 @@
         "avatar": "https://butterfly.js.org/img/avatar.png",
         "date": "2024-06-21T23:33:26.000Z",
         "key": "key-1",
-        "content": "This is a sample content for **Author 1**.\n![Sample Image](https://raw.githubusercontent.com/beerleexc/image/main/wallpaper/B01.png)\n",
-        "tags": [
-            "tags1",
-            "tags2"
-        ]
+        "content": "This is a sample content for **Author 1**.\n![Sample Image](https://raw.githubusercontent.com/beerleexc/image/refs/heads/main/wallpaper/B01.png)\n",
     },
     {
         "author": "Butterfly",
